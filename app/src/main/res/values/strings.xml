@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Service Demo</string>
+    <string name="start_service">Start service</string>
+    <string name="stop_service">Stop service</string>
+    <string name="start_intent_service">Start intent service</string>
+    <string name="started_service_result">Started Service Result</string>
+    <string name="intent_result">Intent result</string>
+    <string name="bound_service_activity">Bound Service Activity</string>
+    <string name="unbind_service">unbind service</string>
+    <string name="bind_service">Bind Service</string>
+    <string name="add">add</string>
+    <string name="result">Result</string>
+    <string name="zero_value">0</string>
+    <string name="messenger_activity">Messenger Activity</string>
+</resources>
